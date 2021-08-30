@@ -83,8 +83,8 @@
     },
     "telegram": {
         "enabled": true,
-        "token": "1566147255:AAF_igWWfGvgyZvubCp-7JNxX2Erky4iOME",
-        "chat_id": "8764679"
+        "token": "",
+        "chat_id": ""
     },
     "initial_state": "running",
     "forcebuy_enable": false,
